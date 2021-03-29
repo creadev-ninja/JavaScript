@@ -42,6 +42,7 @@ On cherche des diviseurs (entier) d'un nombre: en trouver trois suffit pour prou
 	for(let i=0; i<102; i++){
 		if(nbPremier(i)){console.log(i);}
 	}	
-	
+
+[Téléchargez le code ci-dessus](nb1er-01.js) 
 
 Une méthode intuitive qui demande quand même 1184 calculs.
