@@ -5,7 +5,7 @@ Ateliers sur les nombres 1er en JavaScript
 2.  Atelier #2 : Méthode avec la racine carré
 3.  Atelier #3 : Méthode avec boucles imbriquées
 
-[![CreaDev](logo-creadev-210207-R-200.png)](http://www.creadev.ninja/)
+[![CreaDev](../modulo/logo-creadev-210207-R-200.png)](http://www.creadev.ninja/)
 
 Technologies en jeux : JavaScript
 
@@ -40,7 +40,7 @@ Calcul des nombres premiers jusqu'à 100 avec une boucle do while et à partir d
 
 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 
 
-[Téléchargez le code ci-dessus](https://github.com/creadev-ninja/JavaScript/blob/master/nombre-1er-atelier-03/creadev-javascript-nb1er-03.md)
+[Téléchargez le code ci-dessus](https://github.com/creadev-ninja/JavaScript/blob/master/nombre-1er-atelier-03/nb1er-03.js)
 #
 
 - [MDN : Math.floor() retourne un entier](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Objets_globaux/Math/floor)
