@@ -6,7 +6,7 @@ Ateliers sur les nombres 1er en JavaScript
 3.  Atelier #3 : Méthode avec boucles imbriquées
 4.  Atelier #4 : Méthode #3 avec une sortie en tableau (array)
 
-[![CreaDev](logo-creadev-210207-R-200.png)](http://www.creadev.ninja/)
+[![CreaDev](../modulo/logo-creadev-210207-R-200.png)](http://www.creadev.ninja/)
 
 Technologies en jeux : JavaScript
 
@@ -46,8 +46,8 @@ La même imbrication de boucle for & do while mais avec une sortie dans un table
 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71, 73, 79, 83, 89, 97, 
 
 Télécharger le code ci-dessus : 
-- [nb1er-04.js](nb1er-04.js) 
-- [nb1er-04-page.html](nb1er-04-page.html)
+- [nb1er-04.js](https://github.com/creadev-ninja/JavaScript/blob/master/nombre-1er-atelier-04/nb1er-04.js) 
+- [nb1er-04-page.html](https://github.com/creadev-ninja/JavaScript/blob/master/nombre-1er-atelier-04/nb1er-04-page.html)
 
 #
 
