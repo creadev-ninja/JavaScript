@@ -10,6 +10,8 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
+[![Atelier sur les nombres premiers #2 avec JavaScript](https://img.youtube.com/vi/gRUeMHIB8Ug/0.jpg)](https://www.youtube.com/watch?v=gRUeMHIB8Ug)
+
 # Les nombres 1er en JavaScript (#2)
 
 Calcul des nombres premiers jusqu'à 100 avec une boucle à partir de la racine carré de l'entier.

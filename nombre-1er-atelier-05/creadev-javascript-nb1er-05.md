@@ -13,6 +13,8 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
+[![Atelier sur les nombres premiers #5](https://img.youtube.com/vi/YUOtjVDKf-U/0.jpg)](https://www.youtube.com/watch?v=YUOtjVDKf-U)
+
 # Les nombres 1er en JavaScript (#5)
 
 Peut-on encore optimiser le nombre de calculs nécessaire ?

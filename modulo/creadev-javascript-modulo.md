@@ -11,6 +11,8 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
+[![Le modulo en JavaScript](https://img.youtube.com/vi/H_vmo_xesic/0.jpg)](https://www.youtube.com/watch?v=H_vmo_xesic)
+
 # Le modulo en JavaScript
 
 Le modulo (remainder en anglais) est un opérateur arithmétique au même titre que l’addition (+), la 

@@ -11,6 +11,8 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
+[![Atelier sur les nombres premiers #3](https://img.youtube.com/vi/7Fb372v4l_s/0.jpg)](https://www.youtube.com/watch?v=7Fb372v4l_s)
+
 # Les nombres 1er en JavaScript (#3)
 
 Toujours la méthode 2 mais cette fois-ci avec **deux boucles imbriquées** (for & do while).

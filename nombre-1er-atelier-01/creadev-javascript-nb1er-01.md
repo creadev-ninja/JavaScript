@@ -9,6 +9,8 @@ Technologies en jeux : JavaScript
 
 Vous avez juste besoin d’une navigateur et de sa console web.
 
+[![Atelier sur les nombres premiers #1](https://img.youtube.com/vi/fwDEl2_OutE/0.jpg)](https://www.youtube.com/watch?v=fwDEl2_OutE)
+
 # Les nombres 1er en JavaScript (#1)
 
 Calcul des nombres premiers jusqu'à 100 avec une boucle.
